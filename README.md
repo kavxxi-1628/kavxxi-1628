@@ -1,4 +1,4 @@
-# hi, i'm [your name] 👋
+# hi, i'm kav
 
 data science student. i build things with ml and generative ai — mostly agents, pipelines, and stuff that (hopefully) makes sense to humans.
 
